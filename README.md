@@ -1,4 +1,5 @@
 My Auto-Deployed WebApp
+
 This project contains a simple static site served by Nginx in Docker.
 
 Features
